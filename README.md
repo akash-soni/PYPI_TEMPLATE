@@ -1,5 +1,1 @@
-# IPYNBrendrer
-ipywidgets
-notebook
-py-youtube
-ensure
+# PYPI python package template
